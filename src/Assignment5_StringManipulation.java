@@ -169,6 +169,7 @@ public class Assignment5_StringManipulation {
 
         System.out.println("The most frequent character is: " + mostFrequent);
     }
+    /// /
 
     // ===================== TASK 8 =====================
     private static void task8(Scanner scanner) {
